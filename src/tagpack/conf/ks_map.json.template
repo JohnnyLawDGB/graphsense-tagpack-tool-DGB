@@ -3,6 +3,10 @@
         "raw": "btc_raw",
         "transformed": "btc_transformed"
     },
+    "DGB": {
+        "raw": "dgb_raw",
+        "transformed": "dgb_transformed"
+    },
     "LTC": {
         "raw": "ltc_raw",
         "transformed": "ltc_transformed"
